@@ -21,7 +21,7 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 The task is episodic, and in order to solve the environment, your agent must get an average score of +13 over 100 consecutive episodes.
 
 ### Getting Started
-To set up your Python environment correctly follow https://github.com/udacity/deep-reinforcement-learning#dependencies.
+To set up your Python environment correctly follow [THIS LINK](https://github.com/udacity/deep-reinforcement-learning#dependencies)
 
 1. Download the environment from one of the links below.  You need only select the environment that matches your operating system:
     - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
@@ -35,10 +35,10 @@ To set up your Python environment correctly follow https://github.com/udacity/de
 
 2. Place the file in the DRLND GitHub repository, in the `p1_navigation/` folder, and unzip (or decompress) the file. 
 
-To run this project you will need the following Python libraries:
-    - numpy (tested with 1.19.5)
-    - torch (tested with 1.8.1+cu111)
-    - matplotlib (tested with 3.4.0)
+To run this project you will need the following Python libraries:\
+    - numpy (tested with 1.19.5)\
+    - torch (tested with 1.8.1+cu111)\
+    - matplotlib (tested with 3.4.0)\
 
 
 ### Instructions
